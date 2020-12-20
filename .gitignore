@@ -3,3 +3,4 @@ datasets/
 *.model
 *.npy
 *.csv
+*.pth
